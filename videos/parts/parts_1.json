@@ -1,6 +1,10 @@
 [
     {
         "partName":"part01",
-        "partFilesURL": "https://raw.githubusercontent.com/ChenYan1996/my-github-pages/master/JSONRepository/videos/parts/parts_1.json"
+        "partFilesURL": "https://raw.githubusercontent.com/3542Q/JSONRepository/main/videos/partFiles/partfiles_1.json"
+    },
+    {
+        "partName":"part01",
+        "partFilesURL": "https://raw.githubusercontent.com/3542Q/JSONRepository/main/videos/partFiles/partfiles_1.json"
     }
 ]
