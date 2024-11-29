@@ -53,5 +53,30 @@
     "contentTypeId": 2,
     "tagId": 9,
     "contentType": "文章"
+  },
+  {
+    "contentTypeId": 2,
+    "tagId": 6,
+    "contentType": "资源"
+  },
+  {
+    "contentTypeId": 2,
+    "tagId": 10,
+    "contentType": "资源"
+  },
+  {
+    "contentTypeId": 2,
+    "tagId": 11,
+    "contentType": "资源"
+  },
+  {
+    "contentTypeId": 2,
+    "tagId": 3,
+    "contentType": "资源"
+  },
+  {
+    "contentTypeId": 2,
+    "tagId": 4,
+    "contentType": "资源"
   }
 ]
