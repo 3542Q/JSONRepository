@@ -78,5 +78,80 @@
     "contentTypeId": 2,
     "tagId": 4,
     "contentType": "资源"
+  },
+  {
+    "contentTypeId": 3,
+    "tagId": 12,
+    "contentType": "文章"
+  },
+  {
+    "contentTypeId": 3,
+    "tagId": 10,
+    "contentType": "文章"
+  },
+  {
+    "contentTypeId": 3,
+    "tagId": 11,
+    "contentType": "文章"
+  },
+  {
+    "contentTypeId": 3,
+    "tagId": 3,
+    "contentType": "文章"
+  },
+  {
+    "contentTypeId": 3,
+    "tagId": 13,
+    "contentType": "文章"
+  },
+  {
+    "contentTypeId": 4,
+    "tagId": 12,
+    "contentType": "文章"
+  },
+  {
+    "contentTypeId": 4,
+    "tagId": 10,
+    "contentType": "文章"
+  },
+  {
+    "contentTypeId": 4,
+    "tagId": 11,
+    "contentType": "文章"
+  },
+  {
+    "contentTypeId": 4,
+    "tagId": 3,
+    "contentType": "文章"
+  },
+  {
+    "contentTypeId": 4,
+    "tagId": 13,
+    "contentType": "文章"
+  },
+  {
+    "contentTypeId": 5,
+    "tagId": 12,
+    "contentType": "文章"
+  },
+  {
+    "contentTypeId": 5,
+    "tagId": 10,
+    "contentType": "文章"
+  },
+  {
+    "contentTypeId": 5,
+    "tagId": 11,
+    "contentType": "文章"
+  },
+  {
+    "contentTypeId": 5,
+    "tagId": 3,
+    "contentType": "文章"
+  },
+  {
+    "contentTypeId": 5,
+    "tagId": 13,
+    "contentType": "文章"
   }
 ]
