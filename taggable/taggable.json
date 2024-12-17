@@ -183,5 +183,30 @@
     "contentTypeId": 6,
     "tagId": 10,
     "contentType": "文章"
+  },
+  {
+    "contentTypeId": 6,
+    "tagId": 9,
+    "contentType": "文章"
+  },
+  {
+    "contentTypeId": 6,
+    "tagId": 7,
+    "contentType": "文章"
+  },
+  {
+    "contentTypeId": 6,
+    "tagId": 8,
+    "contentType": "文章"
+  },
+  {
+    "contentTypeId": 6,
+    "tagId": 3,
+    "contentType": "文章"
+  },
+  {
+    "contentTypeId": 6,
+    "tagId": 10,
+    "contentType": "文章"
   }
 ]
